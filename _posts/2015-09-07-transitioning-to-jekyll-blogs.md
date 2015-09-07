@@ -4,4 +4,4 @@ title: "Gradually switching to Jekyll blog posts"
 date: 2015-09-07
 ---
 
-TEST
+Gradually switching over to Jekyll blog posts thanks to this [tutorial](jmcglone.com/guides/github-pages).
